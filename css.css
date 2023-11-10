@@ -1,3 +1,4 @@
+
 body{
 	background-color: gray;
 	font-famaly:Helvetica;
@@ -6,4 +7,8 @@ body{
 h1{
 
 	color: white
+
+h2{
+  font-family: Helvetica;
+
 }
